@@ -5,9 +5,6 @@ payload:
   # 域名
   - DOMAIN-SUFFIX,zju.edu.cn
 
-  # CC98
-  - DOMAIN-KEYWORD,cc98
-
   # NexusHD
   - DOMAIN-KEYWORD,nexushd
 
